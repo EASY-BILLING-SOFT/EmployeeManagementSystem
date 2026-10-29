@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Angular\\codewithved\\EmployeeManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE6D39F-F711-41D5-92B2-9D0C1851E25E}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|d:\\angular\\codewithved\\employeemanagementsystem\\employeemanagementsystem\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE6D39F-F711-41D5-92B2-9D0C1851E25E}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE6D39F-F711-41D5-92B2-9D0C1851E25E}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|d:\\angular\\codewithved\\employeemanagementsystem\\employeemanagementsystem\\data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE6D39F-F711-41D5-92B2-9D0C1851E25E}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE6D39F-F711-41D5-92B2-9D0C1851E25E}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|d:\\angular\\codewithved\\employeemanagementsystem\\employeemanagementsystem\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE6D39F-F711-41D5-92B2-9D0C1851E25E}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE6D39F-F711-41D5-92B2-9D0C1851E25E}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|d:\\angular\\codewithved\\employeemanagementsystem\\employeemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE6D39F-F711-41D5-92B2-9D0C1851E25E}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE6D39F-F711-41D5-92B2-9D0C1851E25E}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|d:\\angular\\codewithved\\employeemanagementsystem\\employeemanagementsystem\\data\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE6D39F-F711-41D5-92B2-9D0C1851E25E}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\data\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 236,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Angular\\codewithved\\EmployeeManagementSystem\\EmployeeManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Program.cs",
+              "ToolTip": "D:\\Angular\\codewithved\\EmployeeManagementSystem\\EmployeeManagementSystem\\Program.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvxsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T11:25:12.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Angular\\codewithved\\EmployeeManagementSystem\\EmployeeManagementSystem\\Data\\IRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Data\\IRepository.cs",
+              "ToolTip": "D:\\Angular\\codewithved\\EmployeeManagementSystem\\EmployeeManagementSystem\\Data\\IRepository.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Data\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T11:15:36.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Angular\\codewithved\\EmployeeManagementSystem\\EmployeeManagementSystem\\Data\\Repository.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Data\\Repository.cs",
+              "ToolTip": "D:\\Angular\\codewithved\\EmployeeManagementSystem\\EmployeeManagementSystem\\Data\\Repository.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Data\\Repository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAkwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T11:15:29.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Angular\\codewithved\\EmployeeManagementSystem\\EmployeeManagementSystem\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Angular\\codewithved\\EmployeeManagementSystem\\EmployeeManagementSystem\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T11:12:51.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Angular\\codewithved\\EmployeeManagementSystem\\EmployeeManagementSystem\\Entity\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Entity\\Employee.cs",
+              "ToolTip": "D:\\Angular\\codewithved\\EmployeeManagementSystem\\EmployeeManagementSystem\\Entity\\Employee.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Entity\\Employee.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wBAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T10:59:20.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
